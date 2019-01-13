@@ -34,25 +34,25 @@ namespace CalculatorConsoleApp
 
                 case "a":
                     {
-                        Calculator.Add(_firstValue, _secondValue);
+                        _output = Calculator.Add(_firstValue, _secondValue);
                         break;
                     }
 
                 case "s":
                     {
-                        Calculator.Subtract(_firstValue, _secondValue);
+                        _output =  Calculator.Subtract(_firstValue, _secondValue);
                         break;
                     }
 
                 case "m":
                     {
-                        Calculator.Multiply(_firstValue, _secondValue);
+                        _output = Calculator.Multiply(_firstValue, _secondValue);
                         break;
                     }
 
                 case "d":
                     {
-                        Calculator.Divide(_firstValue, _secondValue);
+                        _output = Calculator.Divide(_firstValue, _secondValue);
                         break;
                     }
 
