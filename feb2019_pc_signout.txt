@@ -1,2 +1,3 @@
 FIRSTNAME           LASTLAST           EMAIL                                        PHONE                   ONSHORE PC ID
-Giancarlo           Rhodes             giancarlo.rhodes@onshoreoutsourcing.com      573-886-2414            OTSMA-LAPTOP-311
+Giancarlo           Rhodes             giancarlo.rhodes@onshoreoutsourcing.com     (C)573-315-4226        OTSMA-LAPTOP-311
+
